@@ -1,0 +1,29 @@
+input[type="text"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #000;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+input[type="password"] {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 12px 20px;
+  color: #000;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}

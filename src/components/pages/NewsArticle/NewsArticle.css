@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.article {
+  width: 500px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid #000;
+}
+
+.article img {
+  width: 100%;
+  cursor: pointer;
+}
+
+.article-title {
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.article-description {
+  margin-bottom: 25px;
+}
